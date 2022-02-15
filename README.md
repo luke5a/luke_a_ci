@@ -1,2 +1,2 @@
 # luke_a_ci
-my first repo
+my first repo with CI
